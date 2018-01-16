@@ -1,0 +1,12 @@
+{
+  "name": "First_Decentralized_Application",
+  "version": "1.0.0",
+  "description": "My first decentralized application",
+  "author": "",
+  "repository": "git@github.com:zaynkorai/First_Decentralized_Application.git",
+  "devDependencies": {
+    "ganache-cli": "^6.0.3",
+    "solc": "^0.4.17",
+    "web3": "^0.20.3"
+  }
+}
